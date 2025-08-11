@@ -30,4 +30,6 @@ AWS SNS (Email Notifications)
 
 AWS SDK for Java
 
+Note: Replace package names, access key , secret key , bucket name , region and bucket name etc... (All these are to be replaced with the ones that you create in your own AWS account). 
+
 
